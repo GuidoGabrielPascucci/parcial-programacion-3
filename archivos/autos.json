@@ -1,0 +1,32 @@
+[
+    {
+        "patente": "abc123",
+        "marca": "fiat",
+        "color": "negro",
+        "precio": 252900
+    },
+    {
+        "patente": "moe122",
+        "marca": "peugeot",
+        "color": "gris",
+        "precio": 473680
+    },
+    {
+        "patente": "kia429",
+        "marca": "renault",
+        "color": "negro",
+        "precio": 199999
+    },
+    {
+        "patente": "eoo991",
+        "marca": "chevrolet",
+        "color": "rojo",
+        "precio": 345500
+    },
+    {
+        "patente": "mou222",
+        "marca": "ford",
+        "color": "negro",
+        "precio": 188700
+    }
+]

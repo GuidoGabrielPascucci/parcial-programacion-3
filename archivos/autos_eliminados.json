@@ -1,0 +1,16 @@
+[
+    {
+        "patente": "AYF714",
+        "marca": "fiat",
+        "color": "blanco",
+        "precio": 100555,
+        "pathFoto": null
+    },
+    {
+        "patente": "abc123",
+        "marca": "fiat",
+        "color": "blanco",
+        "precio": 100555,
+        "pathFoto": null
+    }
+]
